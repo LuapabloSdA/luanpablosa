@@ -1,8 +1,6 @@
 <html>
-    <head>
-        <style>
-        /*menu*/
-        #menu{
+    <style>
+    #menu{
             display: flex;
             border-bottom: 6px solid ;
             width: 100%;
@@ -50,7 +48,6 @@
                 Mar Vermelho-->
                 <h3 id="titulo2">Historia de Mar Vermelho</h3>
                 <!--Vai ficar em destaque, da História-->
-                <p> Oi </p>
                 <p id=adm>O município de Mar Vermelho tem sua origem ligada à história de Coutinho, um viajante que chegou à região por volta de 1800, construiu uma casa e iniciou a criação de gado e o cultivo da terra. Com a chegada de outros moradores, novas casas foram surgindo próximas a uma lagoa, que tinha, em suas margens, muitos pés de gravatás cujas folhas vermelhas caíam e formavam um grande 'mar vermelho' na lagoa, dando origem ao nome do município.</p>
                 <!--História de Mar Vermelho-->
                 <p id="adm">A propriedade foi transferida para o alferes Cazuza e, mais tarde, para o major Joaquim Canuto de Albuquerque Maranhão, que, em 1900, instalou o primeiro vapor de algodão. Em pouco tempo, Mar Vermelho transformou-se em núcleo comercial.
@@ -66,7 +63,6 @@
                     Em divisão territorial datada de 31-XII-1963, o município é constituído do distritos sede.
                     Assim permanecendo em divisão territorial datada de 2007.</p>
                     <p id="fonte1">Fonte:<a href="https://cidades.ibge.gov.br/brasil/al/mar-vermelho/historico">IBGE</a><p>
-           </div>
-       </body>
-   </head>
+            </div>
+        </body>
 </html>
