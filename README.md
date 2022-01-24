@@ -65,7 +65,7 @@
                     Em divisão territorial datada de 31-XII-1963, o município é constituído do distritos sede.
                     Assim permanecendo em divisão territorial datada de 2007.</p>
                     <p id="fonte1">Fonte:<a href="https://cidades.ibge.gov.br/brasil/al/mar-vermelho/historico">IBGE</a><p>
-            </div>
-        </body>
-    </head>
+             </div>
+         </body>
+     </head>
 </html>
